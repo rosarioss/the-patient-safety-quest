@@ -163,8 +163,8 @@ nav:
   - Home: index.md
   - Common terms & concepts: 
     - common-terms-and-concepts/index.md
-  - Tools & methodologies:
-    - tools-and-methodologies/index.md
+#  - Tools & methodologies:
+#    - tools-and-methodologies/index.md
   - Resources:
     - resources/index.md
   - Blog: 

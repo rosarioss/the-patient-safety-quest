@@ -1,7 +1,7 @@
 ---
 title: The Patient Safety Quest project
 date: 2024-05-25
-draft: true
+# draft: true
 authors: [rosarioss]
 slug: the-patient-safety-quest-project
 description: >
