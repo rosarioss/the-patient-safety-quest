@@ -163,6 +163,9 @@ nav:
   - Home: index.md
   - Common terms & concepts: 
     - common-terms-and-concepts/index.md
+    - Patient Safety: common-terms-and-concepts/patient-safety.md
+    - Healthcare Quality: common-terms-and-concepts/healthcare-quality.md
+    - Adverse Events: common-terms-and-concepts/adverse-events.md
 #  - Tools & methodologies:
 #    - tools-and-methodologies/index.md
   - Resources:
