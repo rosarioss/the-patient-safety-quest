@@ -6,8 +6,8 @@ site_description: >-
   Find and explore Patient Safety materials and news 
 
 # Repository
-#repo_name: rosarioss/the-patient-safety-quest
-#repo_url: https://github.com/rosarioss/the-patient-safety-quest
+repo_name: rosarioss/the-patient-safety-quest
+repo_url: https://github.com/rosarioss/the-patient-safety-quest
 
 # Copyright
 copyright: Copyright &copy; 2024 Rosario Silva
@@ -15,7 +15,7 @@ copyright: Copyright &copy; 2024 Rosario Silva
 # Configuration
 theme:
   name: material
-  # custom_dir: material/overrides
+  custom_dir: material/overrides
   features:
     - announce.dismiss
     - content.action.edit
@@ -161,5 +161,11 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - Common terms & concepts: 
+    - common-terms-and-concepts/index.md
+  - Tools & methodologies:
+    - tools-and-methodologies/index.md
+  - Resources:
+    - resources/index.md
   - Blog: 
     - blog/index.md
